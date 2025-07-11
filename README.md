@@ -1,7 +1,9 @@
 # 🎯 Roller Smart Cart - Backend (.NET Core API)
 
-This is the backend API for the **Roller Smart Cart** system — a modern, intelligent shopping solution integrating object detection, real-time communication and seamless checkout.
+This is the backend API for the **Roller Smart Cart** system — a modern, intelligent shopping solution integrating object detection, real-time communication, and seamless checkout.
 
+> 🧑‍🎓 This project was developed as part of my **graduation project**.
+> 
 ## 🚀 Technologies Used
 
 - **ASP.NET Core Web API (.NET 7)**

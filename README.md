@@ -2,7 +2,7 @@
 
 This is the backend API for the **Roller Smart Cart** system — a modern, intelligent shopping solution integrating object detection, real-time communication, and seamless checkout.
 
-> 🧑‍🎓 This project was developed as part of my **graduation project**.
+> 🧑‍🎓 This project was developed as my **graduation project**.
 > 
 ## 🚀 Technologies Used
 
